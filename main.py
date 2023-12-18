@@ -14,8 +14,8 @@ reply_keyboard = [['Грамматика английского языка', 'У
                   ['Мои слова', 'Переводчик']]
 markup = ReplyKeyboardMarkup(reply_keyboard, one_time_keyboard=False)
 state = 0
-conn = psycopg2.connect(dbname='English_bot', user='postgres',
-                        password='Angel0130and.', host='localhost')
+conn = psycopg2.connect(dbname='English_bot', user='юзернейм',
+                        password='пароль.', host='localhost')
 cursor = conn.cursor()
 scheduler = BackgroundScheduler()
 
