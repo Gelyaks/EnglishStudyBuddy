@@ -7,10 +7,9 @@ class Tests:
     def test_help_command(self):
         update = Mock()
         context = Mock()
-
         update.message.text = "/help"
         help_command(update, context)
-
+        
         # Проверяем, что была вызвана функция reply_text с ожидаемыми аргументами
         update.message.reply_text.assert_called_once_with("Используйте `/start` для тестирования.")
 
