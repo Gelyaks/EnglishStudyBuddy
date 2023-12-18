@@ -9,7 +9,7 @@ from telegram import ReplyKeyboardMarkup, InlineKeyboardMarkup,\
 from telegram.ext import Updater, CommandHandler, MessageHandler
 
 
-TOKEN = '6657891520:AAE0qRjLYDRI9seWUutEXKtQ2xqw-9PMr48'
+TOKEN = 'СЮДА ТОКЕН БОТА'
 reply_keyboard = [['Грамматика английского языка', 'Упражнения'],
                   ['Мои слова', 'Переводчик']]
 markup = ReplyKeyboardMarkup(reply_keyboard, one_time_keyboard=False)
