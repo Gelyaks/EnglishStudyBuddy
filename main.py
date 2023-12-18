@@ -250,7 +250,6 @@ def exercises_choose(update):
 
 
 def exercises(update, context):
-
     """
     Sends a grammar exercise to the user, including a sentence with a blank
     space and multiple options for filling the blank, in the same message
