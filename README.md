@@ -23,5 +23,5 @@
 Для начала взаимодействия с ботом, напишите команду "/welcome", а затем "/start".
 
 <br>
-![image](https://postimg.cc/WDfFVrWp).
+![image](https://media.discordapp.net/attachments/1184184659396001863/1186704320452898837/image.png?ex=65943785&is=6581c285&hm=0fe60ea77519f839a25c76c7e65dfeb39eac56f9086495189774a7a5195f4674&=&format=webp&quality=lossless&width=445&height=715).
 
