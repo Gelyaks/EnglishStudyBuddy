@@ -23,4 +23,5 @@
 Для начала взаимодействия с ботом, напишите команду "/welcome", а затем "/start".
 
 <br>
-![image]https://postimg.cc/WDfFVrWp
+![image](https://postimg.cc/WDfFVrWp).
+
